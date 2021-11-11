@@ -20,8 +20,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "VerovioFramework",
-                      url: "https://enote-macos-app.s3.eu-central-1.amazonaws.com/verovio/95a605023.zip",
-                      checksum: "84a43ddc12420d8b5485c489b03081552b20c3f60824fa3514591c2143bf12fc")
+                      url: "https://enote-macos-app.s3.eu-central-1.amazonaws.com/verovio/9be142443.zip",
+                      checksum: "e4d812206d554a697c756cfec50bc68a61193369f00cc6970a9937d581e568e2")
     ]
 )
 

@@ -20,8 +20,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "VerovioFramework",
-                      url: "https://github.com/eNote-GmbH/Verovio-XCFramework/releases/download/v3.16.2/VerovioFramework.xcframework.zip",
-                      checksum: "3bc0fcb9bcea2e7038fe5c23ad234517e206edfc8d1bada54f56552dead75248")
+                      url: "https://github.com/eNote-GmbH/Verovio-XCFramework/releases/download/v3.16.3/VerovioFramework.xcframework.zip",
+                      checksum: "f8e124e2aa0001430d3e24f6e95fcf7117ae9265ef8f0754069647d57a593807")
     ]
 )
 
